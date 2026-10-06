@@ -6,3 +6,5 @@ Added from Local
 Local change 2
 GitHub change 2
 GitHub rebase change
+Local rebase change
+
