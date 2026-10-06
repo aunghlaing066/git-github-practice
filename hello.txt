@@ -5,3 +5,4 @@ This line was added on GitHub
 Added from Local
 Local change 2
 GitHub change 2
+GitHub rebase change
