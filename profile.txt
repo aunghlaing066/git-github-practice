@@ -1,3 +1,4 @@
 Name: Aung
 Name: Senior
 
+Email: aung@example.com
